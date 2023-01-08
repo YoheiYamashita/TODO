@@ -1,0 +1,9 @@
+.contaier{
+    text-align: center;
+    color: aquamarine;
+}
+
+ul{
+    border-radius: 10pt;
+    list-style:circle;
+}
